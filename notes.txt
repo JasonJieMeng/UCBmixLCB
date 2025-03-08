@@ -1,0 +1,6 @@
+Multi-Armed Bandit
+horizon: short -> medium -> long
+            greedy -> mix -> ucb
+arm reward dist:
+
+MarsRover
